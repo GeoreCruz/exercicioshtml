@@ -1,2 +1,3 @@
-Iniciando projeto
-Página index criada
+- Iniciando projeto
+- Página index criada
+- Inserido os exercício na página index
