@@ -2,4 +2,5 @@
 - Página index criada
 - Inserido os exercício na página index
 - Página exercicios criada
-- página estilo criada
+- página estilos criada
+- página exercicio 01 criada
