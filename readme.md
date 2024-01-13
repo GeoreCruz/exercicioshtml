@@ -4,3 +4,4 @@
 - Página exercicios criada
 - página estilos criada
 - página exercicio 01 criada
+- novas paginas
